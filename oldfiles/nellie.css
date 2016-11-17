@@ -1,0 +1,42 @@
+div {
+    margin: 0px 0px;
+    padding: 0px 0px;
+    border: 2px dashed black;
+    text-align:center
+}
+.header {
+    height: 200px;
+    width:100%;
+    margin:0px;
+    display: inline-block;
+    color:darkred;
+    background-image: url("hghlands.jpg");
+}
+
+/* URL containing hghlands picture: https://c2.staticflickr.com/8/7571/28108678396_06f3ec45e8_b.jpg */
+
+.logo {
+    display: inline-block;
+    width:15%;
+    height:150;
+    margin:0px;
+    
+}
+.title {
+    display:inline-block;
+    width:60%;
+    height:150;
+    margin:0px 0px 0px 10px;
+    text-align:left;
+}
+.menu {
+    height: 85px;
+    position: relative;
+    display: inline-block;
+}
+.content {
+    height:600px;
+}
+.footer {
+    height: 50px;
+}
